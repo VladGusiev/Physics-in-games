@@ -1,0 +1,3 @@
+C:/School/2022-2023/LS/FYZAKHP/HW1/cmake-build-debug/CMakeFiles/HW1.dir
+C:/School/2022-2023/LS/FYZAKHP/HW1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/School/2022-2023/LS/FYZAKHP/HW1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
