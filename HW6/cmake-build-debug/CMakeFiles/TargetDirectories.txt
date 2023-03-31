@@ -1,3 +1,3 @@
-C:/School/2022-2023/LS/FYZAKHP/HW6/cmake-build-debug/CMakeFiles/HW6.dir
-C:/School/2022-2023/LS/FYZAKHP/HW6/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/School/2022-2023/LS/FYZAKHP/HW6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/School/2022-2023/LS/FYZAKHP/HW/HW6/cmake-build-debug/CMakeFiles/HW6.dir
+C:/School/2022-2023/LS/FYZAKHP/HW/HW6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/School/2022-2023/LS/FYZAKHP/HW/HW6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
